@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/33228894/README.md)
 # FPV-Drone-Systems-Engineering# FPV Drone System for Remote Visual Inspection: Systems Engineering Case Study
 
-<img width="2000" height="2000" alt="fpv-drone" src="https://github.com/user-attachments/assets/e117bada-2434-4033-b4b0-dd39d4bb85d8" />
+<img src="https://github.com/user-attachments/assets/e117bada-2434-4033-b4b0-dd39d4bb85d8" alt="FPV Drone Systems Engineering" width="100%" />
 
 
 A graduate-level systems engineering case study that follows a First-Person-View (FPV) Drone System (FDS) from problem definition through stakeholder needs and a Concept of Operations. The deliverables are built to show clear traceability from the problem to needs to operational scenarios, using solution-neutral language throughout.
